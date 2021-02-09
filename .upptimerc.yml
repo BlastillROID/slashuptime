@@ -4,25 +4,27 @@ repo: slashuptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
+  - name: Obimo 
+    url: https://obimo.io
+  - name: Obimo App Dev
+    url: https://app.dev.obimo.io
+  - name: Obimo Admin Dev
+    url: https://admin.dev.obimo.io
+  - name: LMS App Dev
+    url: https://app.dev.lms.slashup.studio
+  - name: LMS Admin Dev
+    url: https://admin.dev.lms.slashup.studio
+  - name: SlashUp 
+    url: https://slashup.studio
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: upptime.slashup.studio
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #baseUrl: /slashuptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://files.slack.com/files-pri/T73M914JX-F01M5FYR9M0/screenshot_2021-02-05_at_15.09.52.png
+  name: SlashUpTime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
