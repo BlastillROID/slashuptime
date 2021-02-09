@@ -6,10 +6,10 @@ repo: slashuptime # Your GitHub repository name
 sites:
   - name: Obimo 
     url: https://obimo.io
-  - name: Obimo App Dev
-    url: https://app.dev.obimo.io
-  - name: Obimo Admin Dev
-    url: https://admin.dev.obimo.io
+  - name: Obimo App Staging
+    url: https://app.uat.obimo.io
+  - name: Obimo Admin Staging
+    url: https://admin.uat.obimo.io
   - name: LMS App Dev
     url: https://app.dev.lms.slashup.studio
   - name: LMS Admin Dev
