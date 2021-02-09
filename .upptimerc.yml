@@ -23,7 +23,7 @@ status-website:
   cname: upptime.slashup.studio
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #baseUrl: /slashuptime
-  logoUrl: https://files.slack.com/files-pri/T73M914JX-F01M5FYR9M0/screenshot_2021-02-05_at_15.09.52.png
+  logoUrl: https://raw.githubusercontent.com/BlastillROID/slashuptime/master/Screenshot%202021-02-05%20at%2015.09.52.png
   name: SlashUpTime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
