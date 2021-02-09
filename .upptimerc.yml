@@ -18,7 +18,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: uptime.slashup.studio
+  cname: upptime.slashup.studio
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #baseUrl: /slashuptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
