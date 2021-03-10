@@ -94,17 +94,17 @@
     "url": "https://slashup.studio",
     "icon": "https://favicons.githubusercontent.com/slashup.studio",
     "slug": "slash-up",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 439,
-    "timeDay": 342,
-    "timeWeek": 396,
-    "timeMonth": 412,
-    "timeYear": 439,
+    "time": 436,
+    "timeDay": 338,
+    "timeWeek": 388,
+    "timeMonth": 410,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2021-02-09": 1
     }
