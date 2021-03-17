@@ -4,7 +4,7 @@
     "url": "https://obimo.io",
     "icon": "https://favicons.githubusercontent.com/obimo.io",
     "slug": "obimo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 423,
     "timeDay": 353,
-    "timeWeek": 353,
+    "timeWeek": 356,
     "timeMonth": 387,
     "timeYear": 423,
     "dailyMinutesDown": {
