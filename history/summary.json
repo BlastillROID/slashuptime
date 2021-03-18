@@ -58,7 +58,7 @@
     "url": "https://app.dev.lms.slashup.studio",
     "icon": "https://favicons.githubusercontent.com/app.dev.lms.slashup.studio",
     "slug": "lms-app-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -76,9 +76,9 @@
     "url": "https://admin.dev.lms.slashup.studio",
     "icon": "https://favicons.githubusercontent.com/admin.dev.lms.slashup.studio",
     "slug": "lms-admin-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 415,
     "timeMonth": 415,
     "timeYear": 417,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-18": 0
+    }
   },
   {
     "name": "SlashUp",
