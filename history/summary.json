@@ -22,19 +22,19 @@
     "url": "https://app.uat.obimo.io",
     "icon": "https://favicons.githubusercontent.com/app.uat.obimo.io",
     "slug": "obimo-app-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 471,
-    "timeDay": 449,
-    "timeWeek": 489,
-    "timeMonth": 475,
-    "timeYear": 471,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 473,
+    "timeDay": 519,
+    "timeWeek": 505,
+    "timeMonth": 480,
+    "timeYear": 473,
     "dailyMinutesDown": {
-      "2021-04-22": 0
+      "2021-04-22": 9
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://admin.uat.obimo.io",
     "icon": "https://favicons.githubusercontent.com/admin.uat.obimo.io",
     "slug": "obimo-admin-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 438,
-    "timeWeek": 440,
-    "timeMonth": 454,
-    "timeYear": 443,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 445,
+    "timeDay": 507,
+    "timeWeek": 463,
+    "timeMonth": 460,
+    "timeYear": 445,
     "dailyMinutesDown": {
-      "2021-04-22": 0
+      "2021-04-22": 9
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2021-04-22": 869,
+      "2021-04-22": 878,
       "2021-04-21": 1440,
       "2021-04-20": 1440,
       "2021-04-19": 1440,
