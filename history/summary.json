@@ -43,19 +43,19 @@
     "url": "https://admin.uat.obimo.io",
     "icon": "https://favicons.githubusercontent.com/admin.uat.obimo.io",
     "slug": "obimo-admin-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 421,
-    "timeWeek": 448,
-    "timeMonth": 466,
-    "timeYear": 461,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 460,
+    "timeDay": 404,
+    "timeWeek": 440,
+    "timeMonth": 464,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2021-06-11": 0
+      "2021-06-11": 12
     }
   },
   {
@@ -93,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2021-06-11": 642,
+      "2021-06-11": 654,
       "2021-06-10": 1440,
       "2021-06-09": 1440,
       "2021-06-08": 1440,
