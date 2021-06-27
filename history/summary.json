@@ -25,11 +25,11 @@
     "url": "https://app.uat.obimo.io",
     "icon": "https://favicons.githubusercontent.com/app.uat.obimo.io",
     "slug": "obimo-app-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 487,
     "timeDay": 673,
@@ -37,7 +37,7 @@
     "timeMonth": 499,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2021-06-27": 10,
+      "2021-06-27": 1,
       "2021-06-26": 17
     }
   },
@@ -46,7 +46,7 @@
     "url": "https://admin.uat.obimo.io",
     "icon": "https://favicons.githubusercontent.com/admin.uat.obimo.io",
     "slug": "obimo-admin-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "98.83%",
     "uptimeWeek": "99.83%",
@@ -58,6 +58,7 @@
     "timeMonth": 439,
     "timeYear": 457,
     "dailyMinutesDown": {
+      "2021-06-27": 0,
       "2021-06-26": 17
     }
   },
@@ -85,18 +86,18 @@
     "icon": "https://favicons.githubusercontent.com/admin.dev.lms.slashup.studio",
     "slug": "lms-admin-dev",
     "status": "down",
-    "uptime": "26.86%",
+    "uptime": "26.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.86%",
+    "uptimeYear": "26.85%",
     "time": 417,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2021-06-27": 428,
+      "2021-06-27": 451,
       "2021-06-26": 1440,
       "2021-06-25": 1440,
       "2021-06-24": 1440,
