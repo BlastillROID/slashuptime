@@ -4,7 +4,7 @@
     "url": "https://obimo.io",
     "icon": "https://icons.duckduckgo.com/ip3/obimo.io.ico",
     "slug": "obimo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
@@ -16,6 +16,7 @@
     "timeMonth": 1242,
     "timeYear": 512,
     "dailyMinutesDown": {
+      "2024-06-21": 0,
       "2024-06-18": 54,
       "2024-06-17": 14,
       "2023-12-14": 16,
