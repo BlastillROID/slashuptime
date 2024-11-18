@@ -1,7 +1,7 @@
 url: https://obimo.io
-status: up
-code: 200
-responseTime: 666
-lastUpdated: 2024-11-17T23:19:37.723Z
+status: down
+code: 429
+responseTime: 189
+lastUpdated: 2024-11-18T12:55:51.560Z
 startTime: 2021-02-09T15:09:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
