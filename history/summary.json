@@ -31,19 +31,19 @@
     "url": "https://slashup.studio",
     "icon": "https://icons.duckduckgo.com/ip3/slashup.studio.ico",
     "slug": "slash-up",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.33%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 643,
-    "timeDay": 508,
-    "timeWeek": 573,
-    "timeMonth": 625,
+    "time": 642,
+    "timeDay": 512,
+    "timeWeek": 572,
+    "timeMonth": 623,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2025-02-05": 41
+      "2025-02-05": 53
     }
   }
 ]
