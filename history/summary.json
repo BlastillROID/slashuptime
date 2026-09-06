@@ -4,16 +4,16 @@
     "url": "https://obimo.io",
     "icon": "https://icons.duckduckgo.com/ip3/obimo.io.ico",
     "slug": "obimo",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.88%",
-    "time": 566,
-    "timeDay": 398,
-    "timeWeek": 449,
-    "timeMonth": 513,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "87.97%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.85%",
+    "time": 567,
+    "timeDay": 404,
+    "timeWeek": 445,
+    "timeMonth": 510,
     "timeYear": 518,
     "dailyMinutesDown": {
       "2025-09-07": 17,
@@ -24,7 +24,8 @@
       "2026-04-23": 116,
       "2026-05-04": 58,
       "2026-08-01": 142,
-      "2026-08-15": 41
+      "2026-08-15": 41,
+      "2026-09-06": 173
     }
   },
   {
